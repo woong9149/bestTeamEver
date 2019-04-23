@@ -25,7 +25,7 @@
                 <a class="dropdown-item" href="product-single.html">문의</a>
               </div>
               </li>
-	          <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
+	          <li class="nav-item"><a href="blog/blog.jsp" class="nav-link">Blog</a></li>
 	          <li class="nav-item"><a href="#" class="nav-link">Event</a></li>
 	          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
 	          <li class="nav-item"><a href="#" class="nav-link">로그인</a></li>
